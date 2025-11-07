@@ -4,11 +4,12 @@
     "slug": "Curriculo-rn",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+
+    "icon": "./assets/curriculo.jpg", 
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/curriculo.jpg", 
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,13 +18,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/curriculo.jpg", 
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/curriculo.jpg" 
     }
+
   }
 }
